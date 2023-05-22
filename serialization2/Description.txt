@@ -1,0 +1,5 @@
+﻿1. Create a class named "Product" with the following properties: "Name" (string), "Price" (decimal), and "Description" (string).
+2. Instantiate a few objects of the "Product" class and populate them with some sample data.
+3. Implement a method to serialize the objects into an XML file. The XML file should have a root element (e.g., "Products") 
+and each object should be represented as a child element with its properties as attributes or child elements.
+4. Test your serialization method by calling it with the objects you created and verify that the XML file is generated correctly.
